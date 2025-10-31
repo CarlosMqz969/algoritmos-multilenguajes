@@ -1,0 +1,1 @@
+El primer ejercicio es muy simple se basa en crear una suma creando 2 variables y guardado el resultado de dicha suma en una tercera variable, una vez hecho eso imprimir por pantalla el resultado de dicha suma aplicando el principio de interpolación de variables para ir haciendo el programa de la manera más descriptiva posible
